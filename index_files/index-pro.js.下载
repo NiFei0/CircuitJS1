@@ -1,1 +1,0 @@
-init_dark();function init_dark(){!0===cp_user_get_dark()?loaddarkcss():""===cp_user_get_dark()?1==set.autodark?cp_isdark()?loaddarkcss():def_dark():def_dark():removedarkcss()};
